@@ -6,6 +6,8 @@ Tested only on linux
 set default values in list.txt
 donot add ',' instead use 'and' or '&'
 
+press 'enter key' to fill default values or type them to fill manually
+
 code extereamly fragile!
 ScreenShots must contain only pic format files 
 any other will break the code
