@@ -11,6 +11,7 @@ press 'enter key' to fill default values or type them to fill manually
 code extereamly fragile!
 ScreenShots must contain only pic format files 
 any other will break the code
+all pics in ScreenShots folder will be put into report doc 
 
 donot delete 'Template.docx' or code breaks
 
