@@ -1,5 +1,5 @@
 Requires python--docx
-install using : pip install python-docx 
+install using : pip install python-docx or pip3 install python-docx
 
 Tested only on linux 
 
