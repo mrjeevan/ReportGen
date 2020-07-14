@@ -20,3 +20,4 @@ output : will be a file with  present_date.docx  @ present folder
 'problem statement' and 'status' are to be filled manual
 
 *ignore gramatical mistakes, happy reporting  :)
+# always check report generated before Submiting ! 
