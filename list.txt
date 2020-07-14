@@ -1,0 +1,12 @@
+I/P Name:,Default
+I/P Sem:,Default
+I/P USN:,Default
+I/P SUBJECT:,Default
+I/P Max Marks:,Default
+I/P Score:,Default
+I/P Course:,Default
+I/P CP:,Default
+I/P Duration:,Default 
+I/P Github:,Default
+I/P Repo:,Default
+I/P Slack:,Default
